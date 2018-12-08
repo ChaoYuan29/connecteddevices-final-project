@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.paho.client.mqttv3.MqttException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.eclipse.californium.core.CoapObserveRelation"/>
+    <fullyQualifiedTypeName name="org.eclipse.californium.core.CoapHandler"/>
+    <fullyQualifiedTypeName name="semester_project.MqttClientConnectorII"/>
+</qualifiedTypeNameHistroy>

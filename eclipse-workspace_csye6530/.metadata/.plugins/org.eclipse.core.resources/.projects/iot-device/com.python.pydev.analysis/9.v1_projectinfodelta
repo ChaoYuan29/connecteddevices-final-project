@@ -1,0 +1,8 @@
+INSTUPlabs.semester_project.mqtttest
+/Users/andyyuan/eclipse-workspace_csye6530/iot-device/apps/labs/semester_project/mqtttest.py
+INFOS:&&2|1|2|0|3|10|5&&2|4|2|0|3|18|5&&3|5|2|0|3|22|1
+mc=5
+on_connect=1
+/Users/andyyuan/eclipse-workspace_csye6530/iot-device/apps/labs/semester_project/mqtttest.py=3
+labs.semester_project.mqtttest=2
+on_message=4

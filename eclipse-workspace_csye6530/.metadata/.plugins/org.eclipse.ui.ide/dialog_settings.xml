@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/andyyuan/eclipse-workspace_csye6530/iot-device"/>
+		<item value="/Users/andyyuan/eclipse-workspace_csye6530/iot-gateway"/>
+		<item value="/Users/andyyuan/eclipse-workspace_csye6530/iot-device的副本"/>
+		<item value="/Users/andyyuan/git/Connected_devices"/>
+		<item value="/Users/andyyuan/Desktop/Photon_IOT"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>
